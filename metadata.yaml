@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '2137'
     url: http://www.gutenberg.org/2009/agents/2137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15449#New-Faces
 gutenberg_issued: '2005-03-24'
 gutenberg_type: Text
 identifiers:
